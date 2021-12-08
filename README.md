@@ -12,5 +12,4 @@ El proyecto final consiste en la creación de un sistema de gestión de producto
 de almacén, con dos funcionalidades principales:
 
 • Gestión de usuarios (Login, registros y manejo de usuarios)
-
 • Gestión de productos (CRUD de productos)
